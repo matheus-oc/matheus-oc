@@ -8,6 +8,8 @@
 
 I'm a programming beginner :smile:
 
+Studying at UFABC - Bachelor of Science and Technology :book:
+
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
 ## My specialties:
